@@ -1,5 +1,5 @@
 # Project-1--Clima-y-Cat-strofres-Naturales
-# Poyeyecto 1: Clima y Catástofres Naturales
+# Proyecto 1: Clima y Catástofres Naturales
 
 ## Introducciñon del proyecto
 
@@ -31,7 +31,7 @@ El objetivo de este proyecto es analizar los datos entre el cambio climático y 
 - `Region` → Región específica  
 - `Country` → País afectado  
 - `Total Deaths` → Total de fallecidos
--  `Total Affected` → Total de personas afectadas
+- `Total Affected` → Total de personas afectadas
 
 ---
 
@@ -47,7 +47,7 @@ El objetivo de este proyecto es analizar los datos entre el cambio climático y 
 ### 2. Análisis Exploratorio (EDA)
 - Tendencias temporales de desastres por continente
 - Tipos de desastres más frecuentes y mortales
-- Comparación de impacto humano por región
+- Comparación de impacto humano por región-
 
 ### 3. Visualizaciones
 *(En progreso)*
