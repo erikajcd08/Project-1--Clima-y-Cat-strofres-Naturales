@@ -12,15 +12,16 @@ El objetivo de este proyecto es analizar los datos entre el cambio climático y 
 - **Fuente 1:** EM-DAT- All Natural Disasters 1900- 2021 de Kaggle:
         -- 16.701 registros de desastres naturales a nivel global
         -- Link del dataset: https://www.kaggle.com/datasets/brsdincer/all-natural-disasters-19002021-eosdis
-- **Fuente 2:** En progreso
+- **Fuente 2:** **Temperaturas históricas**:
+        -- [Open-Meteo Archive API](https://archive-api.open-meteo.com)
         -- API gratuita de datos climáticos históricos
 
 ---
 
 # Hipótesis
-- 1. Los desastres naturales han aumentado progresivamente por continente¿?
-- 2. El número de desastres ha crecido en paralelo al aumento de las temperaturas
-- 3. Algunas regiones son más vulnerables a dichas catástofres que otras.
+- 1. Los desastres naturales han aumentado progresivamente desde 1900.
+- 2. Las regiones más cálidas registran más desastres naturales.
+- 3. Asia y América concentran el mayor número de desastres.
 
 ---
 
@@ -51,34 +52,42 @@ El objetivo de este proyecto es analizar los datos entre el cambio climático y 
 
 ### 3. Visualizaciones
 *(En progreso)*
+- Evolución de desastres naturales (1900-2021)
+- Total de desastres por continente
+- Evolución de temperatura media por continente *(en progreso)*
 
 ---
 
 ## Resultados e Insights
 *(En progreso)*
+- Los desastres naturales aumentaron drásticamente a partir de 1960
+- Pico máximo de desastres registrado entre 2000 y 2005
+- Asia concentra el mayor número de desastres (~6.000)
+- América ocupa el segundo lugar (~4.000)
+- Las temperaturas en Europa y Asia muestran una tendencia al alza
 
 ---
 
 
 ## Resultados / Insights
 *(Se completará al finalizar el análisis)*
-- Conclusiones sobre la evolución de desastres por continente
-- Relación entre temperaturas y frecuencia de desastres
-- Regiones más vulnerables identificadas
+- Los desastres naturales aumentaron drásticamente a partir de 1960
+- Pico máximo de desastres registrado entre 2000 y 2005
+- Asia concentra el mayor número de desastres (~6.000)
+- América ocupa el segundo lugar (~4.000)
+- Las temperaturas en Europa y Asia muestran una tendencia al alza
 
 
 ---
 
 ## Próximos pasos
 *(Qué haría si tuviera más tiempo o datos)*
-- Incorporar datos de temperatura de la API Open-Meteo 
-  para correlacionar con los desastres
+- Incorporar datos de temperatura de la API Open-Meteo para correlacionar con los desastres de América, África y Oceanía
 - Analizar el impacto económico por región con más detalle
-- Estudiar la relación entre el PIB de cada país y 
-  su capacidad de respuesta ante desastres
+- Estudiar la relación entre el PIB de cada país y su capacidad de respuesta ante desastres
 - Ampliar el dataset con datos posteriores a 2021
-- Analizar el impacto del cambio climático en tipos 
-  específicos de desastres (inundaciones, sequías...)
+- Analizar el impacto del cambio climático en tipos específicos de desastres (inundaciones, sequías...)
+- Análisis por tipo de desastre más frecuente
  
 
 ---
