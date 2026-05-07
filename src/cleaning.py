@@ -15,7 +15,8 @@ def drop_unnecessary_columns(df):
         'Latitude', 'Longitude', 'Local Time', 'River Basin',
         'Start Month', 'Start Day', 'End Month', 'End Day',
         'No Injured', 'No Homeless', "Insured Damages ('000 US$)",
-        'Adm Level', 'Admin1 Code', 'Admin2 Code', 'Geo Locations'
+        'Adm Level', 'Admin1 Code', 'Admin2 Code', 'Geo Locations',
+        "Total Damages ('000 US$)"
     ]
     return df.drop(columns=cols_to_drop)
 
@@ -32,8 +33,6 @@ def normalize_column_names(df):
 
 def handle_nulls(df):
     """Trata los valores nulos de cada columna"""
-    # Eliminamos columna con demasiados nulos
-    df = df.drop(columns=["total_damages_000_us"])
     # Columnas de texto
     df["disaster_subtype"] = df["disaster_subtype"].fillna("Unknown")
     df["location"] = df["location"].fillna("Unknown")
@@ -64,5 +63,5 @@ def clean_disasters(filepath):
     df = handle_nulls(df)
     df = fix_dtypes(df)
     df = remove_duplicates(df)
-    print(f"Dataset limpio: {df.shape[0]} filas, {df.shape[1]} columnas ✅")
+    print(f"Dataset limpio: {df.shape[0]} filas, {df.shape[1]} columnas ok")
     return df
