@@ -287,150 +287,6 @@ year,avg_temperature,continent,city
 2019,15.56,Europe,Istanbul
 2020,15.44,Europe,Istanbul
 2021,14.86,Europe,Istanbul
-1950,10.72,Europe,Vienna
-1951,10.94,Europe,Vienna
-1952,9.68,Europe,Vienna
-1953,10.23,Europe,Vienna
-1954,8.99,Europe,Vienna
-1955,9.08,Europe,Vienna
-1956,8.53,Europe,Vienna
-1957,10.07,Europe,Vienna
-1958,9.85,Europe,Vienna
-1959,10.06,Europe,Vienna
-1960,9.57,Europe,Vienna
-1961,10.56,Europe,Vienna
-1962,8.79,Europe,Vienna
-1963,8.48,Europe,Vienna
-1964,9.12,Europe,Vienna
-1965,8.36,Europe,Vienna
-1966,10.05,Europe,Vienna
-1967,10.31,Europe,Vienna
-1968,9.84,Europe,Vienna
-1969,8.94,Europe,Vienna
-1970,8.98,Europe,Vienna
-1971,9.83,Europe,Vienna
-1972,9.37,Europe,Vienna
-1973,9.72,Europe,Vienna
-1974,10.33,Europe,Vienna
-1975,10.17,Europe,Vienna
-1976,9.68,Europe,Vienna
-1977,9.85,Europe,Vienna
-1978,8.97,Europe,Vienna
-1979,9.58,Europe,Vienna
-1980,8.49,Europe,Vienna
-1981,10.3,Europe,Vienna
-1982,10.22,Europe,Vienna
-1983,10.82,Europe,Vienna
-1984,9.58,Europe,Vienna
-1985,8.94,Europe,Vienna
-1986,9.79,Europe,Vienna
-1987,9.11,Europe,Vienna
-1988,10.4,Europe,Vienna
-1989,10.85,Europe,Vienna
-1990,10.85,Europe,Vienna
-1991,9.63,Europe,Vienna
-1992,11.23,Europe,Vienna
-1993,9.84,Europe,Vienna
-1994,11.42,Europe,Vienna
-1995,10.1,Europe,Vienna
-1996,8.26,Europe,Vienna
-1997,9.51,Europe,Vienna
-1998,10.35,Europe,Vienna
-1999,10.37,Europe,Vienna
-2000,11.49,Europe,Vienna
-2001,10.41,Europe,Vienna
-2002,11.11,Europe,Vienna
-2003,10.78,Europe,Vienna
-2004,10.03,Europe,Vienna
-2005,9.74,Europe,Vienna
-2006,10.41,Europe,Vienna
-2007,11.6,Europe,Vienna
-2008,11.24,Europe,Vienna
-2009,10.84,Europe,Vienna
-2010,9.52,Europe,Vienna
-2011,10.99,Europe,Vienna
-2012,11.18,Europe,Vienna
-2013,10.57,Europe,Vienna
-2014,11.8,Europe,Vienna
-2015,12.04,Europe,Vienna
-2016,11.35,Europe,Vienna
-2017,11.23,Europe,Vienna
-2018,12.17,Europe,Vienna
-2019,12.06,Europe,Vienna
-2020,11.45,Europe,Vienna
-2021,10.81,Europe,Vienna
-1950,3.73,Europe,Reykjavik
-1951,3.07,Europe,Reykjavik
-1952,3.68,Europe,Reykjavik
-1953,4.36,Europe,Reykjavik
-1954,4.02,Europe,Reykjavik
-1955,3.25,Europe,Reykjavik
-1956,4.36,Europe,Reykjavik
-1957,3.72,Europe,Reykjavik
-1958,3.53,Europe,Reykjavik
-1959,3.48,Europe,Reykjavik
-1960,4.41,Europe,Reykjavik
-1961,3.34,Europe,Reykjavik
-1962,3.06,Europe,Reykjavik
-1963,3.3,Europe,Reykjavik
-1964,4.38,Europe,Reykjavik
-1965,3.66,Europe,Reykjavik
-1966,2.6,Europe,Reykjavik
-1967,2.92,Europe,Reykjavik
-1968,3.1,Europe,Reykjavik
-1969,2.44,Europe,Reykjavik
-1970,2.66,Europe,Reykjavik
-1971,3.22,Europe,Reykjavik
-1972,4.08,Europe,Reykjavik
-1973,2.81,Europe,Reykjavik
-1974,4.14,Europe,Reykjavik
-1975,3.22,Europe,Reykjavik
-1976,3.64,Europe,Reykjavik
-1977,3.21,Europe,Reykjavik
-1978,2.84,Europe,Reykjavik
-1979,1.72,Europe,Reykjavik
-1980,3.64,Europe,Reykjavik
-1981,2.51,Europe,Reykjavik
-1982,3.0,Europe,Reykjavik
-1983,2.39,Europe,Reykjavik
-1984,3.1,Europe,Reykjavik
-1985,3.53,Europe,Reykjavik
-1986,3.23,Europe,Reykjavik
-1987,4.82,Europe,Reykjavik
-1988,3.12,Europe,Reykjavik
-1989,3.1,Europe,Reykjavik
-1990,3.52,Europe,Reykjavik
-1991,4.34,Europe,Reykjavik
-1992,3.48,Europe,Reykjavik
-1993,3.67,Europe,Reykjavik
-1994,3.04,Europe,Reykjavik
-1995,2.88,Europe,Reykjavik
-1996,3.95,Europe,Reykjavik
-1997,4.25,Europe,Reykjavik
-1998,3.69,Europe,Reykjavik
-1999,3.37,Europe,Reykjavik
-2000,3.5,Europe,Reykjavik
-2001,4.36,Europe,Reykjavik
-2002,4.51,Europe,Reykjavik
-2003,5.28,Europe,Reykjavik
-2004,4.95,Europe,Reykjavik
-2005,4.55,Europe,Reykjavik
-2006,4.74,Europe,Reykjavik
-2007,4.76,Europe,Reykjavik
-2008,4.29,Europe,Reykjavik
-2009,4.52,Europe,Reykjavik
-2010,5.13,Europe,Reykjavik
-2011,4.42,Europe,Reykjavik
-2012,4.85,Europe,Reykjavik
-2013,4.22,Europe,Reykjavik
-2014,4.95,Europe,Reykjavik
-2015,3.87,Europe,Reykjavik
-2016,5.27,Europe,Reykjavik
-2017,4.94,Europe,Reykjavik
-2018,4.52,Europe,Reykjavik
-2019,5.04,Europe,Reykjavik
-2020,4.51,Europe,Reykjavik
-2021,4.93,Europe,Reykjavik
 1950,12.15,Asia,Tashkent
 1951,12.64,Asia,Tashkent
 1952,13.23,Asia,Tashkent
@@ -503,6 +359,78 @@ year,avg_temperature,continent,city
 2019,15.68,Asia,Tashkent
 2020,14.2,Asia,Tashkent
 2021,15.85,Asia,Tashkent
+1950,25.24,Asia,Mumbai
+1951,25.84,Asia,Mumbai
+1952,25.77,Asia,Mumbai
+1953,26.01,Asia,Mumbai
+1954,26.27,Asia,Mumbai
+1955,26.12,Asia,Mumbai
+1956,26.01,Asia,Mumbai
+1957,26.33,Asia,Mumbai
+1958,26.81,Asia,Mumbai
+1959,26.63,Asia,Mumbai
+1960,26.76,Asia,Mumbai
+1961,26.33,Asia,Mumbai
+1962,26.3,Asia,Mumbai
+1963,26.72,Asia,Mumbai
+1964,26.22,Asia,Mumbai
+1965,26.83,Asia,Mumbai
+1966,26.91,Asia,Mumbai
+1967,26.71,Asia,Mumbai
+1968,26.25,Asia,Mumbai
+1969,26.86,Asia,Mumbai
+1970,26.2,Asia,Mumbai
+1971,26.18,Asia,Mumbai
+1972,26.73,Asia,Mumbai
+1973,26.29,Asia,Mumbai
+1974,26.38,Asia,Mumbai
+1975,25.85,Asia,Mumbai
+1976,26.42,Asia,Mumbai
+1977,26.86,Asia,Mumbai
+1978,26.21,Asia,Mumbai
+1979,26.66,Asia,Mumbai
+1980,26.55,Asia,Mumbai
+1981,26.38,Asia,Mumbai
+1982,26.29,Asia,Mumbai
+1983,25.94,Asia,Mumbai
+1984,26.26,Asia,Mumbai
+1985,26.13,Asia,Mumbai
+1986,26.43,Asia,Mumbai
+1987,26.87,Asia,Mumbai
+1988,26.54,Asia,Mumbai
+1989,26.34,Asia,Mumbai
+1990,26.33,Asia,Mumbai
+1991,26.45,Asia,Mumbai
+1992,26.41,Asia,Mumbai
+1993,26.36,Asia,Mumbai
+1994,26.45,Asia,Mumbai
+1995,26.55,Asia,Mumbai
+1996,26.42,Asia,Mumbai
+1997,26.38,Asia,Mumbai
+1998,26.77,Asia,Mumbai
+1999,26.4,Asia,Mumbai
+2000,26.35,Asia,Mumbai
+2001,26.33,Asia,Mumbai
+2002,26.93,Asia,Mumbai
+2003,26.83,Asia,Mumbai
+2004,26.75,Asia,Mumbai
+2005,26.48,Asia,Mumbai
+2006,26.91,Asia,Mumbai
+2007,27.03,Asia,Mumbai
+2008,26.63,Asia,Mumbai
+2009,27.08,Asia,Mumbai
+2010,26.97,Asia,Mumbai
+2011,26.73,Asia,Mumbai
+2012,26.27,Asia,Mumbai
+2013,26.39,Asia,Mumbai
+2014,26.96,Asia,Mumbai
+2015,27.08,Asia,Mumbai
+2016,26.67,Asia,Mumbai
+2017,26.45,Asia,Mumbai
+2018,26.69,Asia,Mumbai
+2019,26.3,Asia,Mumbai
+2020,26.64,Asia,Mumbai
+2021,26.69,Asia,Mumbai
 1950,14.33,Asia,Tokyo
 1951,14.15,Asia,Tokyo
 1952,13.89,Asia,Tokyo
@@ -647,78 +575,6 @@ year,avg_temperature,continent,city
 2019,-6.39,Asia,Yakutsk
 2020,-5.65,Asia,Yakutsk
 2021,-6.94,Asia,Yakutsk
-1950,-14.56,Asia,Poselok
-1951,-14.33,Asia,Poselok
-1952,-15.61,Asia,Poselok
-1953,-12.6,Asia,Poselok
-1954,-14.11,Asia,Poselok
-1955,-14.45,Asia,Poselok
-1956,-13.15,Asia,Poselok
-1957,-14.86,Asia,Poselok
-1958,-16.67,Asia,Poselok
-1959,-13.38,Asia,Poselok
-1960,-15.05,Asia,Poselok
-1961,-15.01,Asia,Poselok
-1962,-14.07,Asia,Poselok
-1963,-14.43,Asia,Poselok
-1964,-14.75,Asia,Poselok
-1965,-15.19,Asia,Poselok
-1966,-16.07,Asia,Poselok
-1967,-12.55,Asia,Poselok
-1968,-15.46,Asia,Poselok
-1969,-15.66,Asia,Poselok
-1970,-14.94,Asia,Poselok
-1971,-13.66,Asia,Poselok
-1972,-15.85,Asia,Poselok
-1973,-13.7,Asia,Poselok
-1974,-16.83,Asia,Poselok
-1975,-13.16,Asia,Poselok
-1976,-15.09,Asia,Poselok
-1977,-14.95,Asia,Poselok
-1978,-14.23,Asia,Poselok
-1979,-15.88,Asia,Poselok
-1980,-14.15,Asia,Poselok
-1981,-12.89,Asia,Poselok
-1982,-14.8,Asia,Poselok
-1983,-12.5,Asia,Poselok
-1984,-13.53,Asia,Poselok
-1985,-13.9,Asia,Poselok
-1986,-13.83,Asia,Poselok
-1987,-15.2,Asia,Poselok
-1988,-13.26,Asia,Poselok
-1989,-14.18,Asia,Poselok
-1990,-13.61,Asia,Poselok
-1991,-13.5,Asia,Poselok
-1992,-14.02,Asia,Poselok
-1993,-13.14,Asia,Poselok
-1994,-13.77,Asia,Poselok
-1995,-13.57,Asia,Poselok
-1996,-14.49,Asia,Poselok
-1997,-13.55,Asia,Poselok
-1998,-15.7,Asia,Poselok
-1999,-13.53,Asia,Poselok
-2000,-14.83,Asia,Poselok
-2001,-13.79,Asia,Poselok
-2002,-14.41,Asia,Poselok
-2003,-13.42,Asia,Poselok
-2004,-13.89,Asia,Poselok
-2005,-11.89,Asia,Poselok
-2006,-13.55,Asia,Poselok
-2007,-12.08,Asia,Poselok
-2008,-13.04,Asia,Poselok
-2009,-13.48,Asia,Poselok
-2010,-13.87,Asia,Poselok
-2011,-11.17,Asia,Poselok
-2012,-12.35,Asia,Poselok
-2013,-12.44,Asia,Poselok
-2014,-12.99,Asia,Poselok
-2015,-12.02,Asia,Poselok
-2016,-11.82,Asia,Poselok
-2017,-11.05,Asia,Poselok
-2018,-10.85,Asia,Poselok
-2019,-9.73,Asia,Poselok
-2020,-8.55,Asia,Poselok
-2021,-11.25,Asia,Poselok
 1950,-1.36,Asia,Bratsk
 1951,-2.25,Asia,Bratsk
 1952,-3.48,Asia,Bratsk
@@ -791,6 +647,78 @@ year,avg_temperature,continent,city
 2019,0.38,Asia,Bratsk
 2020,1.91,Asia,Bratsk
 2021,-0.28,Asia,Bratsk
+1950,-0.75,Asia,Ulaanbaatar
+1951,-1.82,Asia,Ulaanbaatar
+1952,-2.21,Asia,Ulaanbaatar
+1953,-0.9,Asia,Ulaanbaatar
+1954,-1.37,Asia,Ulaanbaatar
+1955,-0.44,Asia,Ulaanbaatar
+1956,-1.84,Asia,Ulaanbaatar
+1957,-2.19,Asia,Ulaanbaatar
+1958,-1.1,Asia,Ulaanbaatar
+1959,-0.78,Asia,Ulaanbaatar
+1960,-1.26,Asia,Ulaanbaatar
+1961,-1.45,Asia,Ulaanbaatar
+1962,-1.06,Asia,Ulaanbaatar
+1963,-0.67,Asia,Ulaanbaatar
+1964,-1.54,Asia,Ulaanbaatar
+1965,-0.25,Asia,Ulaanbaatar
+1966,-1.42,Asia,Ulaanbaatar
+1967,-2.26,Asia,Ulaanbaatar
+1968,-2.84,Asia,Ulaanbaatar
+1969,-2.91,Asia,Ulaanbaatar
+1970,-2.69,Asia,Ulaanbaatar
+1971,-1.66,Asia,Ulaanbaatar
+1972,-2.27,Asia,Ulaanbaatar
+1973,-0.78,Asia,Ulaanbaatar
+1974,-1.95,Asia,Ulaanbaatar
+1975,-1.36,Asia,Ulaanbaatar
+1976,-2.88,Asia,Ulaanbaatar
+1977,-1.04,Asia,Ulaanbaatar
+1978,-1.08,Asia,Ulaanbaatar
+1979,-1.06,Asia,Ulaanbaatar
+1980,-1.49,Asia,Ulaanbaatar
+1981,-1.23,Asia,Ulaanbaatar
+1982,-0.84,Asia,Ulaanbaatar
+1983,0.06,Asia,Ulaanbaatar
+1984,-2.59,Asia,Ulaanbaatar
+1985,-2.88,Asia,Ulaanbaatar
+1986,-1.71,Asia,Ulaanbaatar
+1987,-1.54,Asia,Ulaanbaatar
+1988,-0.73,Asia,Ulaanbaatar
+1989,0.25,Asia,Ulaanbaatar
+1990,0.34,Asia,Ulaanbaatar
+1991,-0.44,Asia,Ulaanbaatar
+1992,0.45,Asia,Ulaanbaatar
+1993,-0.33,Asia,Ulaanbaatar
+1994,0.62,Asia,Ulaanbaatar
+1995,0.56,Asia,Ulaanbaatar
+1996,-0.42,Asia,Ulaanbaatar
+1997,1.13,Asia,Ulaanbaatar
+1998,0.68,Asia,Ulaanbaatar
+1999,0.33,Asia,Ulaanbaatar
+2000,-0.29,Asia,Ulaanbaatar
+2001,0.27,Asia,Ulaanbaatar
+2002,0.61,Asia,Ulaanbaatar
+2003,-0.02,Asia,Ulaanbaatar
+2004,0.36,Asia,Ulaanbaatar
+2005,0.12,Asia,Ulaanbaatar
+2006,1.18,Asia,Ulaanbaatar
+2007,2.31,Asia,Ulaanbaatar
+2008,1.32,Asia,Ulaanbaatar
+2009,0.76,Asia,Ulaanbaatar
+2010,-0.14,Asia,Ulaanbaatar
+2011,0.13,Asia,Ulaanbaatar
+2012,-0.85,Asia,Ulaanbaatar
+2013,0.29,Asia,Ulaanbaatar
+2014,1.21,Asia,Ulaanbaatar
+2015,1.55,Asia,Ulaanbaatar
+2016,0.08,Asia,Ulaanbaatar
+2017,1.46,Asia,Ulaanbaatar
+2018,1.03,Asia,Ulaanbaatar
+2019,1.66,Asia,Ulaanbaatar
+2020,1.49,Asia,Ulaanbaatar
+2021,1.35,Asia,Ulaanbaatar
 1950,10.42,Asia,Yinchuan
 1951,9.99,Asia,Yinchuan
 1952,9.41,Asia,Yinchuan
@@ -863,3 +791,1155 @@ year,avg_temperature,continent,city
 2019,10.52,Asia,Yinchuan
 2020,10.49,Asia,Yinchuan
 2021,11.28,Asia,Yinchuan
+1950,23.58,Asia,Riyadh
+1951,24.69,Asia,Riyadh
+1952,24.55,Asia,Riyadh
+1953,24.73,Asia,Riyadh
+1954,25.33,Asia,Riyadh
+1955,24.88,Asia,Riyadh
+1956,24.22,Asia,Riyadh
+1957,24.44,Asia,Riyadh
+1958,25.26,Asia,Riyadh
+1959,23.93,Asia,Riyadh
+1960,25.19,Asia,Riyadh
+1961,24.47,Asia,Riyadh
+1962,25.34,Asia,Riyadh
+1963,24.86,Asia,Riyadh
+1964,23.78,Asia,Riyadh
+1965,24.84,Asia,Riyadh
+1966,25.45,Asia,Riyadh
+1967,23.87,Asia,Riyadh
+1968,24.76,Asia,Riyadh
+1969,25.33,Asia,Riyadh
+1970,24.95,Asia,Riyadh
+1971,23.96,Asia,Riyadh
+1972,23.85,Asia,Riyadh
+1973,24.91,Asia,Riyadh
+1974,24.53,Asia,Riyadh
+1975,24.3,Asia,Riyadh
+1976,24.45,Asia,Riyadh
+1977,25.12,Asia,Riyadh
+1978,25.13,Asia,Riyadh
+1979,25.93,Asia,Riyadh
+1980,25.69,Asia,Riyadh
+1981,25.66,Asia,Riyadh
+1982,24.07,Asia,Riyadh
+1983,24.37,Asia,Riyadh
+1984,24.79,Asia,Riyadh
+1985,25.1,Asia,Riyadh
+1986,24.73,Asia,Riyadh
+1987,25.97,Asia,Riyadh
+1988,25.46,Asia,Riyadh
+1989,24.84,Asia,Riyadh
+1990,25.71,Asia,Riyadh
+1991,25.59,Asia,Riyadh
+1992,23.95,Asia,Riyadh
+1993,25.21,Asia,Riyadh
+1994,25.72,Asia,Riyadh
+1995,25.08,Asia,Riyadh
+1996,25.61,Asia,Riyadh
+1997,24.97,Asia,Riyadh
+1998,26.39,Asia,Riyadh
+1999,26.46,Asia,Riyadh
+2000,25.89,Asia,Riyadh
+2001,26.11,Asia,Riyadh
+2002,25.89,Asia,Riyadh
+2003,26.25,Asia,Riyadh
+2004,25.97,Asia,Riyadh
+2005,26.15,Asia,Riyadh
+2006,25.94,Asia,Riyadh
+2007,26.12,Asia,Riyadh
+2008,25.75,Asia,Riyadh
+2009,26.36,Asia,Riyadh
+2010,27.07,Asia,Riyadh
+2011,25.8,Asia,Riyadh
+2012,26.17,Asia,Riyadh
+2013,25.59,Asia,Riyadh
+2014,26.16,Asia,Riyadh
+2015,26.79,Asia,Riyadh
+2016,26.28,Asia,Riyadh
+2017,26.82,Asia,Riyadh
+2018,27.01,Asia,Riyadh
+2019,26.78,Asia,Riyadh
+2020,26.66,Asia,Riyadh
+2021,27.53,Asia,Riyadh
+1950,-2.6,Americas,Koyukuk
+1951,-4.62,Americas,Koyukuk
+1952,-4.2,Americas,Koyukuk
+1953,-3.48,Americas,Koyukuk
+1954,-4.42,Americas,Koyukuk
+1955,-5.15,Americas,Koyukuk
+1956,-6.68,Americas,Koyukuk
+1957,-1.3,Americas,Koyukuk
+1958,-3.4,Americas,Koyukuk
+1959,-4.54,Americas,Koyukuk
+1960,-3.3,Americas,Koyukuk
+1961,-5.36,Americas,Koyukuk
+1962,-3.19,Americas,Koyukuk
+1963,-3.87,Americas,Koyukuk
+1964,-5.32,Americas,Koyukuk
+1965,-4.16,Americas,Koyukuk
+1966,-5.14,Americas,Koyukuk
+1967,-2.78,Americas,Koyukuk
+1968,-3.87,Americas,Koyukuk
+1969,-2.58,Americas,Koyukuk
+1970,-4.09,Americas,Koyukuk
+1971,-5.95,Americas,Koyukuk
+1972,-4.49,Americas,Koyukuk
+1973,-4.46,Americas,Koyukuk
+1974,-5.01,Americas,Koyukuk
+1975,-4.78,Americas,Koyukuk
+1976,-3.72,Americas,Koyukuk
+1977,-2.67,Americas,Koyukuk
+1978,-1.05,Americas,Koyukuk
+1979,-2.61,Americas,Koyukuk
+1980,-3.19,Americas,Koyukuk
+1981,-2.02,Americas,Koyukuk
+1982,-3.85,Americas,Koyukuk
+1983,-2.96,Americas,Koyukuk
+1984,-4.93,Americas,Koyukuk
+1985,-3.25,Americas,Koyukuk
+1986,-3.34,Americas,Koyukuk
+1987,-2.73,Americas,Koyukuk
+1988,-2.38,Americas,Koyukuk
+1989,-3.85,Americas,Koyukuk
+1990,-3.82,Americas,Koyukuk
+1991,-2.47,Americas,Koyukuk
+1992,-4.93,Americas,Koyukuk
+1993,-1.08,Americas,Koyukuk
+1994,-3.79,Americas,Koyukuk
+1995,-2.42,Americas,Koyukuk
+1996,-4.85,Americas,Koyukuk
+1997,-2.46,Americas,Koyukuk
+1998,-2.72,Americas,Koyukuk
+1999,-5.73,Americas,Koyukuk
+2000,-2.42,Americas,Koyukuk
+2001,-3.75,Americas,Koyukuk
+2002,-1.44,Americas,Koyukuk
+2003,-2.23,Americas,Koyukuk
+2004,-1.41,Americas,Koyukuk
+2005,-1.63,Americas,Koyukuk
+2006,-3.31,Americas,Koyukuk
+2007,-1.82,Americas,Koyukuk
+2008,-3.99,Americas,Koyukuk
+2009,-3.25,Americas,Koyukuk
+2010,-2.99,Americas,Koyukuk
+2011,-2.97,Americas,Koyukuk
+2012,-5.1,Americas,Koyukuk
+2013,-2.56,Americas,Koyukuk
+2014,-0.8,Americas,Koyukuk
+2015,-1.31,Americas,Koyukuk
+2016,-0.02,Americas,Koyukuk
+2017,-1.26,Americas,Koyukuk
+2018,-0.9,Americas,Koyukuk
+2019,-0.07,Americas,Koyukuk
+2020,-2.96,Americas,Koyukuk
+2021,-3.25,Americas,Koyukuk
+1950,8.49,Americas,Omaha
+1951,8.42,Americas,Omaha
+1952,10.41,Americas,Omaha
+1953,11.57,Americas,Omaha
+1954,11.38,Americas,Omaha
+1955,10.4,Americas,Omaha
+1956,11.15,Americas,Omaha
+1957,10.15,Americas,Omaha
+1958,10.17,Americas,Omaha
+1959,9.72,Americas,Omaha
+1960,9.0,Americas,Omaha
+1961,9.43,Americas,Omaha
+1962,9.75,Americas,Omaha
+1963,10.84,Americas,Omaha
+1964,10.67,Americas,Omaha
+1965,9.49,Americas,Omaha
+1966,9.75,Americas,Omaha
+1967,9.85,Americas,Omaha
+1968,10.07,Americas,Omaha
+1969,9.02,Americas,Omaha
+1970,10.21,Americas,Omaha
+1971,9.79,Americas,Omaha
+1972,9.14,Americas,Omaha
+1973,10.56,Americas,Omaha
+1974,10.87,Americas,Omaha
+1975,10.26,Americas,Omaha
+1976,10.76,Americas,Omaha
+1977,11.2,Americas,Omaha
+1978,9.07,Americas,Omaha
+1979,9.07,Americas,Omaha
+1980,10.85,Americas,Omaha
+1981,11.42,Americas,Omaha
+1982,9.21,Americas,Omaha
+1983,10.08,Americas,Omaha
+1984,10.3,Americas,Omaha
+1985,9.41,Americas,Omaha
+1986,11.04,Americas,Omaha
+1987,12.07,Americas,Omaha
+1988,11.34,Americas,Omaha
+1989,10.28,Americas,Omaha
+1990,11.52,Americas,Omaha
+1991,11.16,Americas,Omaha
+1992,10.7,Americas,Omaha
+1993,9.16,Americas,Omaha
+1994,10.72,Americas,Omaha
+1995,10.32,Americas,Omaha
+1996,8.98,Americas,Omaha
+1997,10.1,Americas,Omaha
+1998,11.62,Americas,Omaha
+1999,11.37,Americas,Omaha
+2000,11.3,Americas,Omaha
+2001,10.99,Americas,Omaha
+2002,10.97,Americas,Omaha
+2003,10.66,Americas,Omaha
+2004,10.98,Americas,Omaha
+2005,11.78,Americas,Omaha
+2006,12.28,Americas,Omaha
+2007,11.15,Americas,Omaha
+2008,9.81,Americas,Omaha
+2009,10.01,Americas,Omaha
+2010,10.48,Americas,Omaha
+2011,10.95,Americas,Omaha
+2012,13.28,Americas,Omaha
+2013,10.21,Americas,Omaha
+2014,10.05,Americas,Omaha
+2015,11.56,Americas,Omaha
+2016,12.32,Americas,Omaha
+2017,11.92,Americas,Omaha
+2018,10.39,Americas,Omaha
+2019,10.07,Americas,Omaha
+2020,11.54,Americas,Omaha
+2021,12.09,Americas,Omaha
+1950,11.1,Americas,New York
+1951,11.68,Americas,New York
+1952,11.68,Americas,New York
+1953,12.38,Americas,New York
+1954,11.33,Americas,New York
+1955,11.3,Americas,New York
+1956,10.77,Americas,New York
+1957,11.77,Americas,New York
+1958,10.16,Americas,New York
+1959,11.72,Americas,New York
+1960,10.45,Americas,New York
+1961,10.61,Americas,New York
+1962,10.4,Americas,New York
+1963,10.45,Americas,New York
+1964,10.77,Americas,New York
+1965,10.52,Americas,New York
+1966,10.76,Americas,New York
+1967,10.03,Americas,New York
+1968,10.76,Americas,New York
+1969,10.57,Americas,New York
+1970,10.59,Americas,New York
+1971,10.92,Americas,New York
+1972,10.48,Americas,New York
+1973,12.14,Americas,New York
+1974,11.41,Americas,New York
+1975,11.91,Americas,New York
+1976,10.95,Americas,New York
+1977,11.25,Americas,New York
+1978,10.26,Americas,New York
+1979,11.13,Americas,New York
+1980,11.19,Americas,New York
+1981,10.9,Americas,New York
+1982,10.96,Americas,New York
+1983,11.72,Americas,New York
+1984,11.29,Americas,New York
+1985,11.58,Americas,New York
+1986,11.45,Americas,New York
+1987,11.11,Americas,New York
+1988,11.07,Americas,New York
+1989,10.95,Americas,New York
+1990,12.42,Americas,New York
+1991,12.62,Americas,New York
+1992,10.79,Americas,New York
+1993,11.39,Americas,New York
+1994,11.17,Americas,New York
+1995,11.41,Americas,New York
+1996,10.63,Americas,New York
+1997,11.16,Americas,New York
+1998,12.66,Americas,New York
+1999,12.13,Americas,New York
+2000,10.83,Americas,New York
+2001,11.87,Americas,New York
+2002,12.36,Americas,New York
+2003,10.45,Americas,New York
+2004,11.15,Americas,New York
+2005,11.47,Americas,New York
+2006,12.48,Americas,New York
+2007,11.9,Americas,New York
+2008,11.92,Americas,New York
+2009,11.14,Americas,New York
+2010,12.42,Americas,New York
+2011,12.2,Americas,New York
+2012,13.04,Americas,New York
+2013,11.59,Americas,New York
+2014,10.8,Americas,New York
+2015,11.76,Americas,New York
+2016,12.54,Americas,New York
+2017,12.38,Americas,New York
+2018,12.14,Americas,New York
+2019,12.09,Americas,New York
+2020,12.89,Americas,New York
+2021,12.78,Americas,New York
+1950,14.49,Americas,Mexico City
+1951,15.33,Americas,Mexico City
+1952,15.22,Americas,Mexico City
+1953,15.04,Americas,Mexico City
+1954,14.67,Americas,Mexico City
+1955,14.97,Americas,Mexico City
+1956,14.39,Americas,Mexico City
+1957,15.84,Americas,Mexico City
+1958,14.82,Americas,Mexico City
+1959,14.63,Americas,Mexico City
+1960,15.4,Americas,Mexico City
+1961,15.12,Americas,Mexico City
+1962,15.41,Americas,Mexico City
+1963,15.02,Americas,Mexico City
+1964,15.09,Americas,Mexico City
+1965,15.11,Americas,Mexico City
+1966,15.02,Americas,Mexico City
+1967,14.68,Americas,Mexico City
+1968,14.46,Americas,Mexico City
+1969,15.68,Americas,Mexico City
+1970,15.21,Americas,Mexico City
+1971,14.92,Americas,Mexico City
+1972,15.26,Americas,Mexico City
+1973,15.17,Americas,Mexico City
+1974,14.62,Americas,Mexico City
+1975,14.83,Americas,Mexico City
+1976,14.52,Americas,Mexico City
+1977,14.92,Americas,Mexico City
+1978,14.69,Americas,Mexico City
+1979,15.5,Americas,Mexico City
+1980,15.16,Americas,Mexico City
+1981,14.73,Americas,Mexico City
+1982,15.59,Americas,Mexico City
+1983,15.39,Americas,Mexico City
+1984,14.75,Americas,Mexico City
+1985,14.69,Americas,Mexico City
+1986,14.82,Americas,Mexico City
+1987,15.28,Americas,Mexico City
+1988,15.59,Americas,Mexico City
+1989,15.18,Americas,Mexico City
+1990,15.14,Americas,Mexico City
+1991,15.58,Americas,Mexico City
+1992,14.7,Americas,Mexico City
+1993,15.6,Americas,Mexico City
+1994,15.8,Americas,Mexico City
+1995,15.57,Americas,Mexico City
+1996,15.28,Americas,Mexico City
+1997,15.15,Americas,Mexico City
+1998,16.28,Americas,Mexico City
+1999,15.22,Americas,Mexico City
+2000,15.47,Americas,Mexico City
+2001,15.09,Americas,Mexico City
+2002,15.61,Americas,Mexico City
+2003,15.69,Americas,Mexico City
+2004,15.21,Americas,Mexico City
+2005,15.84,Americas,Mexico City
+2006,15.3,Americas,Mexico City
+2007,15.42,Americas,Mexico City
+2008,15.37,Americas,Mexico City
+2009,16.03,Americas,Mexico City
+2010,15.44,Americas,Mexico City
+2011,16.08,Americas,Mexico City
+2012,15.56,Americas,Mexico City
+2013,15.83,Americas,Mexico City
+2014,15.68,Americas,Mexico City
+2015,15.77,Americas,Mexico City
+2016,15.61,Americas,Mexico City
+2017,16.76,Americas,Mexico City
+2018,16.39,Americas,Mexico City
+2019,17.32,Americas,Mexico City
+2020,17.46,Americas,Mexico City
+2021,16.83,Americas,Mexico City
+1950,12.97,Americas,Bogota
+1951,13.49,Americas,Bogota
+1952,13.63,Americas,Bogota
+1953,13.9,Americas,Bogota
+1954,13.37,Americas,Bogota
+1955,13.13,Americas,Bogota
+1956,13.11,Americas,Bogota
+1957,14.01,Americas,Bogota
+1958,14.43,Americas,Bogota
+1959,13.93,Americas,Bogota
+1960,13.63,Americas,Bogota
+1961,13.86,Americas,Bogota
+1962,13.78,Americas,Bogota
+1963,13.86,Americas,Bogota
+1964,13.56,Americas,Bogota
+1965,13.72,Americas,Bogota
+1966,13.85,Americas,Bogota
+1967,13.58,Americas,Bogota
+1968,13.39,Americas,Bogota
+1969,14.09,Americas,Bogota
+1970,13.69,Americas,Bogota
+1971,13.05,Americas,Bogota
+1972,13.83,Americas,Bogota
+1973,13.83,Americas,Bogota
+1974,13.17,Americas,Bogota
+1975,13.03,Americas,Bogota
+1976,13.48,Americas,Bogota
+1977,13.89,Americas,Bogota
+1978,13.61,Americas,Bogota
+1979,13.84,Americas,Bogota
+1980,14.38,Americas,Bogota
+1981,14.07,Americas,Bogota
+1982,14.09,Americas,Bogota
+1983,14.71,Americas,Bogota
+1984,13.59,Americas,Bogota
+1985,13.65,Americas,Bogota
+1986,13.79,Americas,Bogota
+1987,14.67,Americas,Bogota
+1988,14.03,Americas,Bogota
+1989,13.83,Americas,Bogota
+1990,14.49,Americas,Bogota
+1991,14.16,Americas,Bogota
+1992,14.32,Americas,Bogota
+1993,14.15,Americas,Bogota
+1994,13.98,Americas,Bogota
+1995,14.15,Americas,Bogota
+1996,13.95,Americas,Bogota
+1997,14.48,Americas,Bogota
+1998,14.91,Americas,Bogota
+1999,13.8,Americas,Bogota
+2000,13.82,Americas,Bogota
+2001,14.23,Americas,Bogota
+2002,14.37,Americas,Bogota
+2003,14.47,Americas,Bogota
+2004,14.42,Americas,Bogota
+2005,14.52,Americas,Bogota
+2006,14.27,Americas,Bogota
+2007,14.23,Americas,Bogota
+2008,13.84,Americas,Bogota
+2009,14.48,Americas,Bogota
+2010,14.24,Americas,Bogota
+2011,13.69,Americas,Bogota
+2012,14.05,Americas,Bogota
+2013,14.27,Americas,Bogota
+2014,14.38,Americas,Bogota
+2015,14.73,Americas,Bogota
+2016,14.87,Americas,Bogota
+2017,13.05,Americas,Bogota
+2018,12.89,Americas,Bogota
+2019,13.32,Americas,Bogota
+2020,13.69,Americas,Bogota
+2021,13.26,Americas,Bogota
+1950,18.73,Americas,Sao Paulo
+1951,18.6,Americas,Sao Paulo
+1952,18.67,Americas,Sao Paulo
+1953,19.01,Americas,Sao Paulo
+1954,19.39,Americas,Sao Paulo
+1955,18.98,Americas,Sao Paulo
+1956,18.41,Americas,Sao Paulo
+1957,18.83,Americas,Sao Paulo
+1958,19.28,Americas,Sao Paulo
+1959,19.65,Americas,Sao Paulo
+1960,18.71,Americas,Sao Paulo
+1961,20.61,Americas,Sao Paulo
+1962,18.06,Americas,Sao Paulo
+1963,19.83,Americas,Sao Paulo
+1964,18.23,Americas,Sao Paulo
+1965,19.31,Americas,Sao Paulo
+1966,19.23,Americas,Sao Paulo
+1967,19.55,Americas,Sao Paulo
+1968,18.3,Americas,Sao Paulo
+1969,19.49,Americas,Sao Paulo
+1970,19.18,Americas,Sao Paulo
+1971,18.98,Americas,Sao Paulo
+1972,19.43,Americas,Sao Paulo
+1973,19.36,Americas,Sao Paulo
+1974,19.06,Americas,Sao Paulo
+1975,19.08,Americas,Sao Paulo
+1976,18.62,Americas,Sao Paulo
+1977,19.91,Americas,Sao Paulo
+1978,19.11,Americas,Sao Paulo
+1979,18.49,Americas,Sao Paulo
+1980,19.18,Americas,Sao Paulo
+1981,18.67,Americas,Sao Paulo
+1982,18.94,Americas,Sao Paulo
+1983,19.27,Americas,Sao Paulo
+1984,19.51,Americas,Sao Paulo
+1985,19.03,Americas,Sao Paulo
+1986,19.54,Americas,Sao Paulo
+1987,19.2,Americas,Sao Paulo
+1988,18.82,Americas,Sao Paulo
+1989,18.62,Americas,Sao Paulo
+1990,19.35,Americas,Sao Paulo
+1991,19.11,Americas,Sao Paulo
+1992,19.09,Americas,Sao Paulo
+1993,19.45,Americas,Sao Paulo
+1994,19.63,Americas,Sao Paulo
+1995,19.51,Americas,Sao Paulo
+1996,18.94,Americas,Sao Paulo
+1997,19.59,Americas,Sao Paulo
+1998,19.56,Americas,Sao Paulo
+1999,18.88,Americas,Sao Paulo
+2000,19.23,Americas,Sao Paulo
+2001,19.74,Americas,Sao Paulo
+2002,20.38,Americas,Sao Paulo
+2003,19.64,Americas,Sao Paulo
+2004,18.86,Americas,Sao Paulo
+2005,19.54,Americas,Sao Paulo
+2006,19.4,Americas,Sao Paulo
+2007,19.7,Americas,Sao Paulo
+2008,18.9,Americas,Sao Paulo
+2009,19.46,Americas,Sao Paulo
+2010,19.41,Americas,Sao Paulo
+2011,19.02,Americas,Sao Paulo
+2012,19.7,Americas,Sao Paulo
+2013,19.1,Americas,Sao Paulo
+2014,20.1,Americas,Sao Paulo
+2015,20.32,Americas,Sao Paulo
+2016,19.52,Americas,Sao Paulo
+2017,19.27,Americas,Sao Paulo
+2018,19.2,Americas,Sao Paulo
+2019,19.7,Americas,Sao Paulo
+2020,19.26,Americas,Sao Paulo
+2021,18.85,Americas,Sao Paulo
+1950,21.75,Americas,Santa Cruz
+1951,22.12,Americas,Santa Cruz
+1952,22.06,Americas,Santa Cruz
+1953,22.3,Americas,Santa Cruz
+1954,22.73,Americas,Santa Cruz
+1955,22.42,Americas,Santa Cruz
+1956,21.91,Americas,Santa Cruz
+1957,22.22,Americas,Santa Cruz
+1958,22.44,Americas,Santa Cruz
+1959,22.94,Americas,Santa Cruz
+1960,22.82,Americas,Santa Cruz
+1961,25.62,Americas,Santa Cruz
+1962,22.5,Americas,Santa Cruz
+1963,23.77,Americas,Santa Cruz
+1964,22.42,Americas,Santa Cruz
+1965,23.21,Americas,Santa Cruz
+1966,22.81,Americas,Santa Cruz
+1967,22.9,Americas,Santa Cruz
+1968,23.02,Americas,Santa Cruz
+1969,23.64,Americas,Santa Cruz
+1970,23.0,Americas,Santa Cruz
+1971,22.16,Americas,Santa Cruz
+1972,23.29,Americas,Santa Cruz
+1973,23.14,Americas,Santa Cruz
+1974,22.3,Americas,Santa Cruz
+1975,22.4,Americas,Santa Cruz
+1976,22.35,Americas,Santa Cruz
+1977,22.92,Americas,Santa Cruz
+1978,23.22,Americas,Santa Cruz
+1979,22.39,Americas,Santa Cruz
+1980,22.3,Americas,Santa Cruz
+1981,22.11,Americas,Santa Cruz
+1982,22.42,Americas,Santa Cruz
+1983,22.15,Americas,Santa Cruz
+1984,22.52,Americas,Santa Cruz
+1985,22.84,Americas,Santa Cruz
+1986,22.88,Americas,Santa Cruz
+1987,22.96,Americas,Santa Cruz
+1988,23.07,Americas,Santa Cruz
+1989,22.96,Americas,Santa Cruz
+1990,22.74,Americas,Santa Cruz
+1991,22.55,Americas,Santa Cruz
+1992,22.01,Americas,Santa Cruz
+1993,22.74,Americas,Santa Cruz
+1994,23.55,Americas,Santa Cruz
+1995,23.21,Americas,Santa Cruz
+1996,22.59,Americas,Santa Cruz
+1997,23.24,Americas,Santa Cruz
+1998,22.55,Americas,Santa Cruz
+1999,23.16,Americas,Santa Cruz
+2000,22.61,Americas,Santa Cruz
+2001,23.11,Americas,Santa Cruz
+2002,23.38,Americas,Santa Cruz
+2003,23.31,Americas,Santa Cruz
+2004,23.01,Americas,Santa Cruz
+2005,23.11,Americas,Santa Cruz
+2006,23.33,Americas,Santa Cruz
+2007,23.08,Americas,Santa Cruz
+2008,23.16,Americas,Santa Cruz
+2009,23.53,Americas,Santa Cruz
+2010,23.6,Americas,Santa Cruz
+2011,23.82,Americas,Santa Cruz
+2012,23.49,Americas,Santa Cruz
+2013,23.11,Americas,Santa Cruz
+2014,23.21,Americas,Santa Cruz
+2015,23.63,Americas,Santa Cruz
+2016,23.35,Americas,Santa Cruz
+2017,23.37,Americas,Santa Cruz
+2018,22.73,Americas,Santa Cruz
+2019,23.18,Americas,Santa Cruz
+2020,23.92,Americas,Santa Cruz
+2021,23.1,Americas,Santa Cruz
+1950,22.12,Africa,El Cairo
+1951,22.28,Africa,El Cairo
+1952,22.22,Africa,El Cairo
+1953,21.5,Africa,El Cairo
+1954,21.65,Africa,El Cairo
+1955,22.43,Africa,El Cairo
+1956,21.93,Africa,El Cairo
+1957,21.89,Africa,El Cairo
+1958,21.78,Africa,El Cairo
+1959,21.08,Africa,El Cairo
+1960,22.41,Africa,El Cairo
+1961,21.0,Africa,El Cairo
+1962,21.75,Africa,El Cairo
+1963,21.59,Africa,El Cairo
+1964,20.55,Africa,El Cairo
+1965,21.6,Africa,El Cairo
+1966,22.17,Africa,El Cairo
+1967,21.02,Africa,El Cairo
+1968,21.41,Africa,El Cairo
+1969,21.54,Africa,El Cairo
+1970,21.45,Africa,El Cairo
+1971,21.56,Africa,El Cairo
+1972,21.76,Africa,El Cairo
+1973,21.42,Africa,El Cairo
+1974,21.72,Africa,El Cairo
+1975,21.54,Africa,El Cairo
+1976,21.41,Africa,El Cairo
+1977,21.63,Africa,El Cairo
+1978,21.71,Africa,El Cairo
+1979,22.06,Africa,El Cairo
+1980,21.41,Africa,El Cairo
+1981,21.31,Africa,El Cairo
+1982,21.02,Africa,El Cairo
+1983,20.74,Africa,El Cairo
+1984,21.19,Africa,El Cairo
+1985,21.48,Africa,El Cairo
+1986,21.29,Africa,El Cairo
+1987,20.93,Africa,El Cairo
+1988,21.49,Africa,El Cairo
+1989,21.22,Africa,El Cairo
+1990,21.41,Africa,El Cairo
+1991,21.25,Africa,El Cairo
+1992,20.51,Africa,El Cairo
+1993,21.35,Africa,El Cairo
+1994,21.72,Africa,El Cairo
+1995,21.35,Africa,El Cairo
+1996,21.58,Africa,El Cairo
+1997,21.36,Africa,El Cairo
+1998,22.23,Africa,El Cairo
+1999,22.16,Africa,El Cairo
+2000,21.33,Africa,El Cairo
+2001,22.0,Africa,El Cairo
+2002,21.97,Africa,El Cairo
+2003,21.8,Africa,El Cairo
+2004,21.72,Africa,El Cairo
+2005,21.58,Africa,El Cairo
+2006,21.65,Africa,El Cairo
+2007,21.9,Africa,El Cairo
+2008,22.25,Africa,El Cairo
+2009,22.3,Africa,El Cairo
+2010,23.34,Africa,El Cairo
+2011,21.6,Africa,El Cairo
+2012,22.36,Africa,El Cairo
+2013,22.35,Africa,El Cairo
+2014,22.7,Africa,El Cairo
+2015,22.53,Africa,El Cairo
+2016,22.96,Africa,El Cairo
+2017,22.35,Africa,El Cairo
+2018,23.4,Africa,El Cairo
+2019,23.0,Africa,El Cairo
+2020,23.33,Africa,El Cairo
+2021,23.66,Africa,El Cairo
+1950,18.14,Africa,Nairobi
+1951,18.25,Africa,Nairobi
+1952,18.11,Africa,Nairobi
+1953,17.78,Africa,Nairobi
+1954,18.37,Africa,Nairobi
+1955,18.51,Africa,Nairobi
+1956,18.29,Africa,Nairobi
+1957,18.24,Africa,Nairobi
+1958,18.49,Africa,Nairobi
+1959,18.47,Africa,Nairobi
+1960,18.4,Africa,Nairobi
+1961,18.63,Africa,Nairobi
+1962,18.31,Africa,Nairobi
+1963,18.05,Africa,Nairobi
+1964,17.67,Africa,Nairobi
+1965,18.07,Africa,Nairobi
+1966,18.39,Africa,Nairobi
+1967,18.27,Africa,Nairobi
+1968,17.8,Africa,Nairobi
+1969,18.55,Africa,Nairobi
+1970,18.43,Africa,Nairobi
+1971,18.07,Africa,Nairobi
+1972,18.43,Africa,Nairobi
+1973,18.81,Africa,Nairobi
+1974,18.09,Africa,Nairobi
+1975,18.44,Africa,Nairobi
+1976,18.64,Africa,Nairobi
+1977,18.14,Africa,Nairobi
+1978,17.97,Africa,Nairobi
+1979,18.07,Africa,Nairobi
+1980,18.58,Africa,Nairobi
+1981,18.47,Africa,Nairobi
+1982,18.58,Africa,Nairobi
+1983,18.73,Africa,Nairobi
+1984,18.47,Africa,Nairobi
+1985,17.86,Africa,Nairobi
+1986,18.26,Africa,Nairobi
+1987,19.06,Africa,Nairobi
+1988,18.53,Africa,Nairobi
+1989,17.94,Africa,Nairobi
+1990,18.21,Africa,Nairobi
+1991,18.75,Africa,Nairobi
+1992,18.43,Africa,Nairobi
+1993,18.36,Africa,Nairobi
+1994,18.68,Africa,Nairobi
+1995,18.5,Africa,Nairobi
+1996,18.47,Africa,Nairobi
+1997,18.63,Africa,Nairobi
+1998,18.41,Africa,Nairobi
+1999,18.34,Africa,Nairobi
+2000,18.83,Africa,Nairobi
+2001,18.46,Africa,Nairobi
+2002,18.63,Africa,Nairobi
+2003,18.85,Africa,Nairobi
+2004,18.87,Africa,Nairobi
+2005,18.9,Africa,Nairobi
+2006,18.73,Africa,Nairobi
+2007,18.86,Africa,Nairobi
+2008,18.77,Africa,Nairobi
+2009,19.32,Africa,Nairobi
+2010,18.92,Africa,Nairobi
+2011,19.26,Africa,Nairobi
+2012,19.12,Africa,Nairobi
+2013,18.77,Africa,Nairobi
+2014,19.11,Africa,Nairobi
+2015,19.36,Africa,Nairobi
+2016,19.26,Africa,Nairobi
+2017,19.2,Africa,Nairobi
+2018,18.28,Africa,Nairobi
+2019,19.02,Africa,Nairobi
+2020,18.49,Africa,Nairobi
+2021,18.61,Africa,Nairobi
+1950,13.18,Africa,Johannesburg
+1951,16.24,Africa,Johannesburg
+1952,16.39,Africa,Johannesburg
+1953,16.43,Africa,Johannesburg
+1954,15.7,Africa,Johannesburg
+1955,13.99,Africa,Johannesburg
+1956,15.13,Africa,Johannesburg
+1957,14.21,Africa,Johannesburg
+1958,14.69,Africa,Johannesburg
+1959,14.62,Africa,Johannesburg
+1960,13.82,Africa,Johannesburg
+1961,14.85,Africa,Johannesburg
+1962,15.46,Africa,Johannesburg
+1963,14.47,Africa,Johannesburg
+1964,14.26,Africa,Johannesburg
+1965,14.57,Africa,Johannesburg
+1966,15.2,Africa,Johannesburg
+1967,13.91,Africa,Johannesburg
+1968,14.18,Africa,Johannesburg
+1969,14.66,Africa,Johannesburg
+1970,15.17,Africa,Johannesburg
+1971,14.19,Africa,Johannesburg
+1972,14.51,Africa,Johannesburg
+1973,14.26,Africa,Johannesburg
+1974,13.94,Africa,Johannesburg
+1975,14.09,Africa,Johannesburg
+1976,13.82,Africa,Johannesburg
+1977,14.76,Africa,Johannesburg
+1978,14.43,Africa,Johannesburg
+1979,14.84,Africa,Johannesburg
+1980,14.28,Africa,Johannesburg
+1981,14.01,Africa,Johannesburg
+1982,14.73,Africa,Johannesburg
+1983,15.26,Africa,Johannesburg
+1984,14.95,Africa,Johannesburg
+1985,15.17,Africa,Johannesburg
+1986,14.84,Africa,Johannesburg
+1987,15.0,Africa,Johannesburg
+1988,14.56,Africa,Johannesburg
+1989,14.25,Africa,Johannesburg
+1990,14.99,Africa,Johannesburg
+1991,15.12,Africa,Johannesburg
+1992,15.91,Africa,Johannesburg
+1993,15.24,Africa,Johannesburg
+1994,14.58,Africa,Johannesburg
+1995,15.06,Africa,Johannesburg
+1996,14.06,Africa,Johannesburg
+1997,14.15,Africa,Johannesburg
+1998,15.36,Africa,Johannesburg
+1999,15.07,Africa,Johannesburg
+2000,13.78,Africa,Johannesburg
+2001,14.46,Africa,Johannesburg
+2002,15.14,Africa,Johannesburg
+2003,15.95,Africa,Johannesburg
+2004,15.11,Africa,Johannesburg
+2005,16.08,Africa,Johannesburg
+2006,14.33,Africa,Johannesburg
+2007,15.22,Africa,Johannesburg
+2008,14.94,Africa,Johannesburg
+2009,14.87,Africa,Johannesburg
+2010,15.37,Africa,Johannesburg
+2011,14.78,Africa,Johannesburg
+2012,15.36,Africa,Johannesburg
+2013,15.65,Africa,Johannesburg
+2014,15.23,Africa,Johannesburg
+2015,16.82,Africa,Johannesburg
+2016,16.35,Africa,Johannesburg
+2017,15.89,Africa,Johannesburg
+2018,16.34,Africa,Johannesburg
+2019,17.04,Africa,Johannesburg
+2020,15.65,Africa,Johannesburg
+2021,15.6,Africa,Johannesburg
+1950,16.83,Oceania,Sydney
+1951,16.91,Oceania,Sydney
+1952,17.03,Oceania,Sydney
+1953,16.91,Oceania,Sydney
+1954,16.93,Oceania,Sydney
+1955,17.13,Oceania,Sydney
+1956,16.46,Oceania,Sydney
+1957,17.1,Oceania,Sydney
+1958,17.13,Oceania,Sydney
+1959,16.97,Oceania,Sydney
+1960,16.77,Oceania,Sydney
+1961,16.94,Oceania,Sydney
+1962,16.63,Oceania,Sydney
+1963,16.64,Oceania,Sydney
+1964,16.89,Oceania,Sydney
+1965,16.91,Oceania,Sydney
+1966,16.64,Oceania,Sydney
+1967,16.87,Oceania,Sydney
+1968,17.15,Oceania,Sydney
+1969,16.7,Oceania,Sydney
+1970,16.71,Oceania,Sydney
+1971,16.7,Oceania,Sydney
+1972,16.78,Oceania,Sydney
+1973,17.45,Oceania,Sydney
+1974,16.54,Oceania,Sydney
+1975,16.94,Oceania,Sydney
+1976,16.31,Oceania,Sydney
+1977,16.76,Oceania,Sydney
+1978,16.67,Oceania,Sydney
+1979,17.21,Oceania,Sydney
+1980,17.66,Oceania,Sydney
+1981,17.14,Oceania,Sydney
+1982,17.04,Oceania,Sydney
+1983,17.2,Oceania,Sydney
+1984,16.48,Oceania,Sydney
+1985,16.63,Oceania,Sydney
+1986,16.61,Oceania,Sydney
+1987,16.77,Oceania,Sydney
+1988,17.44,Oceania,Sydney
+1989,16.96,Oceania,Sydney
+1990,16.96,Oceania,Sydney
+1991,17.3,Oceania,Sydney
+1992,16.38,Oceania,Sydney
+1993,17.03,Oceania,Sydney
+1994,16.99,Oceania,Sydney
+1995,16.53,Oceania,Sydney
+1996,16.62,Oceania,Sydney
+1997,17.26,Oceania,Sydney
+1998,17.63,Oceania,Sydney
+1999,16.98,Oceania,Sydney
+2000,16.95,Oceania,Sydney
+2001,17.31,Oceania,Sydney
+2002,17.38,Oceania,Sydney
+2003,17.1,Oceania,Sydney
+2004,17.45,Oceania,Sydney
+2005,17.65,Oceania,Sydney
+2006,17.6,Oceania,Sydney
+2007,17.53,Oceania,Sydney
+2008,16.89,Oceania,Sydney
+2009,17.77,Oceania,Sydney
+2010,17.52,Oceania,Sydney
+2011,17.25,Oceania,Sydney
+2012,17.01,Oceania,Sydney
+2013,17.71,Oceania,Sydney
+2014,17.68,Oceania,Sydney
+2015,17.5,Oceania,Sydney
+2016,18.05,Oceania,Sydney
+2017,17.86,Oceania,Sydney
+2018,17.61,Oceania,Sydney
+2019,17.89,Oceania,Sydney
+2020,17.37,Oceania,Sydney
+2021,16.82,Oceania,Sydney
+1950,21.2,Oceania,Alice Springs
+1951,22.58,Oceania,Alice Springs
+1952,21.54,Oceania,Alice Springs
+1953,21.62,Oceania,Alice Springs
+1954,21.53,Oceania,Alice Springs
+1955,22.26,Oceania,Alice Springs
+1956,20.99,Oceania,Alice Springs
+1957,22.53,Oceania,Alice Springs
+1958,22.39,Oceania,Alice Springs
+1959,22.32,Oceania,Alice Springs
+1960,21.81,Oceania,Alice Springs
+1961,22.42,Oceania,Alice Springs
+1962,21.91,Oceania,Alice Springs
+1963,22.63,Oceania,Alice Springs
+1964,22.3,Oceania,Alice Springs
+1965,22.36,Oceania,Alice Springs
+1966,20.69,Oceania,Alice Springs
+1967,21.19,Oceania,Alice Springs
+1968,21.07,Oceania,Alice Springs
+1969,21.55,Oceania,Alice Springs
+1970,21.39,Oceania,Alice Springs
+1971,21.93,Oceania,Alice Springs
+1972,21.61,Oceania,Alice Springs
+1973,22.21,Oceania,Alice Springs
+1974,19.59,Oceania,Alice Springs
+1975,20.27,Oceania,Alice Springs
+1976,19.6,Oceania,Alice Springs
+1977,20.56,Oceania,Alice Springs
+1978,20.67,Oceania,Alice Springs
+1979,21.92,Oceania,Alice Springs
+1980,22.84,Oceania,Alice Springs
+1981,21.84,Oceania,Alice Springs
+1982,21.27,Oceania,Alice Springs
+1983,21.63,Oceania,Alice Springs
+1984,21.13,Oceania,Alice Springs
+1985,21.86,Oceania,Alice Springs
+1986,22.08,Oceania,Alice Springs
+1987,21.71,Oceania,Alice Springs
+1988,22.14,Oceania,Alice Springs
+1989,21.13,Oceania,Alice Springs
+1990,22.55,Oceania,Alice Springs
+1991,22.7,Oceania,Alice Springs
+1992,21.91,Oceania,Alice Springs
+1993,21.82,Oceania,Alice Springs
+1994,21.82,Oceania,Alice Springs
+1995,21.54,Oceania,Alice Springs
+1996,22.77,Oceania,Alice Springs
+1997,21.8,Oceania,Alice Springs
+1998,22.43,Oceania,Alice Springs
+1999,22.13,Oceania,Alice Springs
+2000,20.69,Oceania,Alice Springs
+2001,20.6,Oceania,Alice Springs
+2002,22.59,Oceania,Alice Springs
+2003,22.44,Oceania,Alice Springs
+2004,22.69,Oceania,Alice Springs
+2005,23.09,Oceania,Alice Springs
+2006,22.63,Oceania,Alice Springs
+2007,22.38,Oceania,Alice Springs
+2008,22.34,Oceania,Alice Springs
+2009,22.9,Oceania,Alice Springs
+2010,20.07,Oceania,Alice Springs
+2011,21.2,Oceania,Alice Springs
+2012,21.86,Oceania,Alice Springs
+2013,23.38,Oceania,Alice Springs
+2014,22.56,Oceania,Alice Springs
+2015,22.31,Oceania,Alice Springs
+2016,22.11,Oceania,Alice Springs
+2017,22.85,Oceania,Alice Springs
+2018,23.0,Oceania,Alice Springs
+2019,23.38,Oceania,Alice Springs
+2020,22.72,Oceania,Alice Springs
+2021,21.96,Oceania,Alice Springs
+1950,10.69,Oceania,Christchurch
+1951,10.03,Oceania,Christchurch
+1952,11.0,Oceania,Christchurch
+1953,10.89,Oceania,Christchurch
+1954,11.61,Oceania,Christchurch
+1955,11.79,Oceania,Christchurch
+1956,11.65,Oceania,Christchurch
+1957,11.47,Oceania,Christchurch
+1958,11.35,Oceania,Christchurch
+1959,10.69,Oceania,Christchurch
+1960,10.84,Oceania,Christchurch
+1961,11.22,Oceania,Christchurch
+1962,11.49,Oceania,Christchurch
+1963,10.73,Oceania,Christchurch
+1964,11.26,Oceania,Christchurch
+1965,10.78,Oceania,Christchurch
+1966,10.87,Oceania,Christchurch
+1967,11.26,Oceania,Christchurch
+1968,11.2,Oceania,Christchurch
+1969,11.15,Oceania,Christchurch
+1970,11.72,Oceania,Christchurch
+1971,11.8,Oceania,Christchurch
+1972,11.24,Oceania,Christchurch
+1973,11.85,Oceania,Christchurch
+1974,11.31,Oceania,Christchurch
+1975,11.47,Oceania,Christchurch
+1976,10.52,Oceania,Christchurch
+1977,10.76,Oceania,Christchurch
+1978,11.69,Oceania,Christchurch
+1979,11.51,Oceania,Christchurch
+1980,11.12,Oceania,Christchurch
+1981,11.67,Oceania,Christchurch
+1982,11.44,Oceania,Christchurch
+1983,10.98,Oceania,Christchurch
+1984,11.81,Oceania,Christchurch
+1985,11.88,Oceania,Christchurch
+1986,11.33,Oceania,Christchurch
+1987,11.74,Oceania,Christchurch
+1988,11.97,Oceania,Christchurch
+1989,11.69,Oceania,Christchurch
+1990,11.89,Oceania,Christchurch
+1991,10.97,Oceania,Christchurch
+1992,10.16,Oceania,Christchurch
+1993,10.45,Oceania,Christchurch
+1994,11.11,Oceania,Christchurch
+1995,10.97,Oceania,Christchurch
+1996,10.98,Oceania,Christchurch
+1997,10.73,Oceania,Christchurch
+1998,12.23,Oceania,Christchurch
+1999,11.88,Oceania,Christchurch
+2000,11.28,Oceania,Christchurch
+2001,11.6,Oceania,Christchurch
+2002,11.42,Oceania,Christchurch
+2003,11.33,Oceania,Christchurch
+2004,11.14,Oceania,Christchurch
+2005,11.9,Oceania,Christchurch
+2006,10.95,Oceania,Christchurch
+2007,11.62,Oceania,Christchurch
+2008,11.5,Oceania,Christchurch
+2009,10.98,Oceania,Christchurch
+2010,11.79,Oceania,Christchurch
+2011,11.34,Oceania,Christchurch
+2012,11.18,Oceania,Christchurch
+2013,12.11,Oceania,Christchurch
+2014,11.56,Oceania,Christchurch
+2015,11.65,Oceania,Christchurch
+2016,12.12,Oceania,Christchurch
+2017,12.04,Oceania,Christchurch
+2018,12.13,Oceania,Christchurch
+2019,12.49,Oceania,Christchurch
+2020,12.44,Oceania,Christchurch
+2021,12.41,Oceania,Christchurch
+1950,26.25,Oceania,Manila
+1951,26.52,Oceania,Manila
+1952,26.64,Oceania,Manila
+1953,26.75,Oceania,Manila
+1954,26.66,Oceania,Manila
+1955,26.34,Oceania,Manila
+1956,26.23,Oceania,Manila
+1957,26.56,Oceania,Manila
+1958,26.71,Oceania,Manila
+1959,26.7,Oceania,Manila
+1960,26.72,Oceania,Manila
+1961,26.25,Oceania,Manila
+1962,26.43,Oceania,Manila
+1963,26.02,Oceania,Manila
+1964,26.45,Oceania,Manila
+1965,26.32,Oceania,Manila
+1966,27.05,Oceania,Manila
+1967,26.23,Oceania,Manila
+1968,26.82,Oceania,Manila
+1969,26.94,Oceania,Manila
+1970,26.83,Oceania,Manila
+1971,26.12,Oceania,Manila
+1972,26.25,Oceania,Manila
+1973,26.88,Oceania,Manila
+1974,26.27,Oceania,Manila
+1975,26.5,Oceania,Manila
+1976,26.06,Oceania,Manila
+1977,26.45,Oceania,Manila
+1978,26.5,Oceania,Manila
+1979,26.48,Oceania,Manila
+1980,26.62,Oceania,Manila
+1981,26.39,Oceania,Manila
+1982,26.21,Oceania,Manila
+1983,26.85,Oceania,Manila
+1984,26.26,Oceania,Manila
+1985,26.4,Oceania,Manila
+1986,26.14,Oceania,Manila
+1987,26.76,Oceania,Manila
+1988,26.81,Oceania,Manila
+1989,26.21,Oceania,Manila
+1990,26.51,Oceania,Manila
+1991,26.44,Oceania,Manila
+1992,26.55,Oceania,Manila
+1993,26.57,Oceania,Manila
+1994,26.36,Oceania,Manila
+1995,26.43,Oceania,Manila
+1996,26.35,Oceania,Manila
+1997,26.49,Oceania,Manila
+1998,27.32,Oceania,Manila
+1999,26.23,Oceania,Manila
+2000,26.23,Oceania,Manila
+2001,26.38,Oceania,Manila
+2002,26.5,Oceania,Manila
+2003,26.59,Oceania,Manila
+2004,26.55,Oceania,Manila
+2005,26.58,Oceania,Manila
+2006,26.59,Oceania,Manila
+2007,26.8,Oceania,Manila
+2008,26.33,Oceania,Manila
+2009,26.29,Oceania,Manila
+2010,27.08,Oceania,Manila
+2011,26.19,Oceania,Manila
+2012,26.53,Oceania,Manila
+2013,26.86,Oceania,Manila
+2014,26.67,Oceania,Manila
+2015,26.88,Oceania,Manila
+2016,27.14,Oceania,Manila
+2017,27.17,Oceania,Manila
+2018,27.14,Oceania,Manila
+2019,27.3,Oceania,Manila
+2020,27.66,Oceania,Manila
+2021,27.26,Oceania,Manila
+1950,-6.93,Polar,Longyearbyen
+1951,-9.54,Polar,Longyearbyen
+1952,-8.54,Polar,Longyearbyen
+1953,-7.19,Polar,Longyearbyen
+1954,-6.3,Polar,Longyearbyen
+1955,-9.19,Polar,Longyearbyen
+1956,-6.39,Polar,Longyearbyen
+1957,-7.59,Polar,Longyearbyen
+1958,-7.92,Polar,Longyearbyen
+1959,-7.32,Polar,Longyearbyen
+1960,-7.26,Polar,Longyearbyen
+1961,-7.7,Polar,Longyearbyen
+1962,-9.3,Polar,Longyearbyen
+1963,-10.1,Polar,Longyearbyen
+1964,-7.26,Polar,Longyearbyen
+1965,-8.77,Polar,Longyearbyen
+1966,-10.26,Polar,Longyearbyen
+1967,-8.2,Polar,Longyearbyen
+1968,-10.82,Polar,Longyearbyen
+1969,-8.14,Polar,Longyearbyen
+1970,-8.01,Polar,Longyearbyen
+1971,-8.95,Polar,Longyearbyen
+1972,-5.34,Polar,Longyearbyen
+1973,-8.48,Polar,Longyearbyen
+1974,-5.43,Polar,Longyearbyen
+1975,-8.7,Polar,Longyearbyen
+1976,-6.13,Polar,Longyearbyen
+1977,-7.72,Polar,Longyearbyen
+1978,-8.2,Polar,Longyearbyen
+1979,-8.58,Polar,Longyearbyen
+1980,-8.34,Polar,Longyearbyen
+1981,-8.49,Polar,Longyearbyen
+1982,-8.38,Polar,Longyearbyen
+1983,-8.28,Polar,Longyearbyen
+1984,-4.45,Polar,Longyearbyen
+1985,-6.59,Polar,Longyearbyen
+1986,-7.52,Polar,Longyearbyen
+1987,-7.78,Polar,Longyearbyen
+1988,-9.78,Polar,Longyearbyen
+1989,-7.59,Polar,Longyearbyen
+1990,-5.24,Polar,Longyearbyen
+1991,-6.78,Polar,Longyearbyen
+1992,-6.58,Polar,Longyearbyen
+1993,-7.56,Polar,Longyearbyen
+1994,-7.47,Polar,Longyearbyen
+1995,-7.84,Polar,Longyearbyen
+1996,-6.29,Polar,Longyearbyen
+1997,-7.4,Polar,Longyearbyen
+1998,-7.35,Polar,Longyearbyen
+1999,-5.77,Polar,Longyearbyen
+2000,-5.78,Polar,Longyearbyen
+2001,-6.39,Polar,Longyearbyen
+2002,-6.18,Polar,Longyearbyen
+2003,-7.56,Polar,Longyearbyen
+2004,-5.61,Polar,Longyearbyen
+2005,-4.8,Polar,Longyearbyen
+2006,-4.19,Polar,Longyearbyen
+2007,-5.22,Polar,Longyearbyen
+2008,-5.68,Polar,Longyearbyen
+2009,-4.96,Polar,Longyearbyen
+2010,-5.54,Polar,Longyearbyen
+2011,-4.81,Polar,Longyearbyen
+2012,-3.74,Polar,Longyearbyen
+2013,-5.49,Polar,Longyearbyen
+2014,-4.38,Polar,Longyearbyen
+2015,-3.91,Polar,Longyearbyen
+2016,-1.82,Polar,Longyearbyen
+2017,-3.95,Polar,Longyearbyen
+2018,-3.36,Polar,Longyearbyen
+2019,-4.97,Polar,Longyearbyen
+2020,-4.72,Polar,Longyearbyen
+2021,-4.48,Polar,Longyearbyen
